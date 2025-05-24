@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/Taywee/args/archive/refs/tags/6.4.7.zip",
+    "integrity": "sha256-0SSKoxxd5R2cPpWssHg6eaf3TX7vgCEG1cb4CKY0zgE=",
+    "strip_prefix": "args-6.4.7",
+    "patches": {
+        "args.patch": "sha256-vlbl0qbiDsHXHTuXdXQQo3vk+VnCc62+5dKkTRjC5MQ=",
+        "add_build_file.patch": "sha256-S32NQ9inQqDFDEGCS/aCIRutPHNd/TkK4Q0kSKtedf4="
+    },
+    "patch_strip": 0
+}

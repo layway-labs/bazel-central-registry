@@ -1,0 +1,11 @@
+{
+    "url": "http://lemon.cs.elte.hu/pub/sources/lemon-1.3.1.tar.gz",
+    "integrity": "sha256-cbfHJfTAtKjMuS64eyCHAVhs96lhVuvYIco+2FW608g=",
+    "strip_prefix": "lemon-1.3.1",
+    "patches": {
+        "lemon.MODULE.patch": "sha256-G8bO0hMkdZyTLUINHbTfjk+SuZg86/rhYF751pCLFNE=",
+        "lemon.CMakeLists.patch": "sha256-bvukFntr7e1kabVsSDKD/E8Ife/JDn7CMj36PS0OaZM=",
+        "add_build_file.patch": "sha256-GCndHR3tS0C2/17ME5xElSP9ZC3Uc/aD3DbtfsXYpWQ="
+    },
+    "patch_strip": 0
+}

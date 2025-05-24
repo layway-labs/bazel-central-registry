@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/nmwsharp/happly/archive/8a606309daaa680eee495c8279feb0b704148f4a.zip",
+    "integrity": "sha256-EYcTGtv9CHsB5XhjZ44/uRME2O2K0l9WrIMp6osxzKk=",
+    "strip_prefix": "happly-8a606309daaa680eee495c8279feb0b704148f4a",
+    "patches": {
+        "happly.patch": "sha256-M8W6XUz1sjOJg3YbLn+Pt2PbToR+qqpsebwv2IPPyQo=",
+        "add_build_file.patch": "sha256-H7Z07p1ZNz/nuM78Cv9LgJobWyMu2mCzsiX83z2+yss="
+    },
+    "patch_strip": 0
+}

@@ -1,0 +1,5 @@
+module(
+    name = "happly",
+    version = "0.0.0-8a606309",
+    compatibility_level = 0,
+)

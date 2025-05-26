@@ -1,0 +1,10 @@
+    --- MODULE.bazel
+    +++ MODULE.bazel
+    @@ -1,6 +1,6 @@
+     module(
+       name = "polyscope",
+    -  version = "2.4-bazel",
+    +  version = "2.4-bzlmod-5b74a1b8",
+     )
+
+     bazel_dep(name = "aspect_bazel_lib", version = "2.9.4")

@@ -1,0 +1,10 @@
+    --- MODULE.bazel
+    +++ MODULE.bazel
+    @@ -1,6 +1,6 @@
+     module(
+         name = "quadriflow",
+    -    version = "1.0-bazel",
+    +    version = "1.0-bzlmod-e8860e05",
+     )
+
+     bazel_dep(name = "aspect_bazel_lib", version = "2.9.4")

@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/tpcms-labs/polyscope/archive/5b74a1b82368322cafa60e028ae524597d2ed422.zip",
+    "integrity": "sha256-veApFtWd8+yJDGVbukTD1LTb8DNFM5rPS7MCc6wEaZQ=",
+    "strip_prefix": "polyscope-5b74a1b82368322cafa60e028ae524597d2ed422",
+    "patches": {
+        "polyscope.MODULE.patch": "sha256-xyv0+lMwWCrlSRwG/Otuv35kwtbKVCobn9winrGxACU="
+    },
+    "patch_strip": 0
+}

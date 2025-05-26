@@ -1,0 +1,11 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:tpcms-labs/polyscope"
+    ],
+    "versions": [
+        "2.4-bzlmod-5b74a1b8"
+    ],
+    "yanked_versions": {}
+}

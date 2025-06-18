@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/tpcms-labs/QuadriFlow/archive/db840ee6c50fbd9a5dfcc9e35ed0ed249baae152.zip",
+    "integrity": "sha256-PV3fBe7ENljR68es9VRr/lg++NXgLfteJFhUCFFWzo4=",
+    "strip_prefix": "QuadriFlow-db840ee6c50fbd9a5dfcc9e35ed0ed249baae152",
+    "patches": {
+        "quadriflow.MODULE.patch": "sha256-r2hW9YeHJqDg56WvGxn3L9R+YB1pUI7LTOxU7W6S/t8="
+    },
+    "patch_strip": 0
+}

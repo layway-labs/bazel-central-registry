@@ -2,7 +2,7 @@
     "homepage": "",
     "maintainers": [],
     "repository": [
-        "github:tpcms-labs/QuadriFlow"
+        "github:layway-labs/QuadriFlow"
     ],
     "versions": [
         "1.0-bzlmod-db840ee6",

@@ -1,5 +1,5 @@
 {
-    "url": "https://github.com/tpcms-labs/QuadriFlow/archive/db840ee6c50fbd9a5dfcc9e35ed0ed249baae152.zip",
+    "url": "https://github.com/layway-labs/QuadriFlow/archive/db840ee6c50fbd9a5dfcc9e35ed0ed249baae152.zip",
     "integrity": "sha256-PV3fBe7ENljR68es9VRr/lg++NXgLfteJFhUCFFWzo4=",
     "strip_prefix": "QuadriFlow-db840ee6c50fbd9a5dfcc9e35ed0ed249baae152",
     "patches": {

@@ -1,5 +1,5 @@
 {
-    "url": "https://github.com/tpcms-labs/polyscope/archive/5b74a1b82368322cafa60e028ae524597d2ed422.zip",
+    "url": "https://github.com/layway-labs/polyscope/archive/5b74a1b82368322cafa60e028ae524597d2ed422.zip",
     "integrity": "sha256-veApFtWd8+yJDGVbukTD1LTb8DNFM5rPS7MCc6wEaZQ=",
     "strip_prefix": "polyscope-5b74a1b82368322cafa60e028ae524597d2ed422",
     "patches": {

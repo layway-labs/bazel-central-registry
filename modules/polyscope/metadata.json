@@ -2,7 +2,7 @@
     "homepage": "",
     "maintainers": [],
     "repository": [
-        "github:tpcms-labs/polyscope"
+        "github:layway-labs/polyscope"
     ],
     "versions": [
         "2.4-bzlmod-5b74a1b8"

@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/cgg-bern/lemon/archive/61ef0e1c067345c887d141df5df61c3574e88686.zip",
+    "integrity": "sha256-ETbCc9MAnRSIS0mypt7v1XV2mNRspCJW5MqOYlvYKRw=",
+    "strip_prefix": "lemon-61ef0e1c067345c887d141df5df61c3574e88686",
+    "patches": {
+        "add_build_file.patch": "sha256-GCndHR3tS0C2/17ME5xElSP9ZC3Uc/aD3DbtfsXYpWQ=",
+        "lemon.CMakeLists.patch": "sha256-bvukFntr7e1kabVsSDKD/E8Ife/JDn7CMj36PS0OaZM=",
+        "lemon.MODULE.patch": "sha256-LEk9E3YyVVFLAC3Ma9Q/HLHVekocib3xY0EsdLNIVjw="
+    },
+    "patch_strip": 0
+}
